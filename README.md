@@ -8,6 +8,6 @@ Ensures semantic clarity and compatibility across browsers. <br/>
 Provides the visual styles for the cards, including animations and gradients
 Rationale: CSS animations and transitions ensure smooth and performant visual effects.<br/>
 iii. JavaScript
-Handles the dynamic behavior of the interface, such as detecting swipes and updating card states.
+Handles the dynamic behavior of the interface, such as detecting swipes and updating card states.<br/>
 Rationale: Vanilla JavaScript keeps the project lightweight without requiring external libraries
 3. Time spent on the project: 3hr to 4hr <br/>
