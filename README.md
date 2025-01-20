@@ -11,3 +11,5 @@ iii. JavaScript
 Handles the dynamic behavior of the interface, such as detecting swipes and updating card states.<br/>
 Rationale: Vanilla JavaScript keeps the project lightweight without requiring external libraries
 3. Time spent on the project: 3hr to 4hr <br/>
+4. Live demo link:
+[Live Demo](https://scroll-blog.vercel.app/)  
